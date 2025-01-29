@@ -4,11 +4,11 @@ namespace TaskTracker
 {
     class Program
     {
-        public class Tasks
+        public struct Tasks
         {
-            public string title { get; set; }
-            public string desc { get; set; }
-            public bool completed { get; set; }
+            public string title;
+            public string desc;
+            public bool completed;
         }
 
         static Tasks[] TasksArr = new Tasks[100];
@@ -96,7 +96,6 @@ namespace TaskTracker
                     Console.WriteLine($"  Title: {TasksArr[i].title}");
                     Console.WriteLine($"  Description: {TasksArr[i].desc}");
                     Console.WriteLine($"  Status: {(TasksArr[i].completed ? "Completed" : "Not Completed")}");
-                    
                 }
             }
         }
@@ -124,7 +123,6 @@ namespace TaskTracker
                 {
                     TasksArr[i] = TasksArr[i + 1];
                 }
-                TasksArr[taskIndx - 1] = null;
                 taskIndx--;
                 Console.WriteLine("Task Removed Successfully!");
                 Console.WriteLine("--------------------------");
