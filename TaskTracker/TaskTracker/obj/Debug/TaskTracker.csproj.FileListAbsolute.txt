@@ -1,0 +1,7 @@
+C:\Users\Mohamed Maher\Desktop\Csharp\TaskTracker\TaskTracker\bin\Debug\TaskTracker.exe.config
+C:\Users\Mohamed Maher\Desktop\Csharp\TaskTracker\TaskTracker\bin\Debug\TaskTracker.exe
+C:\Users\Mohamed Maher\Desktop\Csharp\TaskTracker\TaskTracker\bin\Debug\TaskTracker.pdb
+C:\Users\Mohamed Maher\Desktop\Csharp\TaskTracker\TaskTracker\obj\Debug\TaskTracker.csproj.AssemblyReference.cache
+C:\Users\Mohamed Maher\Desktop\Csharp\TaskTracker\TaskTracker\obj\Debug\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Maher\Desktop\Csharp\TaskTracker\TaskTracker\obj\Debug\TaskTracker.exe
+C:\Users\Mohamed Maher\Desktop\Csharp\TaskTracker\TaskTracker\obj\Debug\TaskTracker.pdb
